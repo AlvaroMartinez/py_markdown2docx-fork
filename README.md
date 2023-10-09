@@ -1,7 +1,7 @@
 # py_markdown2docx-fork
 This is a fork of [Markdown to Word docx](https://pypi.org/project/Markdown2docx/) file conversion from jeremy lee jlee2.71818_at_gmail_dot_com. this mod aims to overwrite some existing docx file.
 
-**current state of devel:**  barely started, no additional features achieved.
+**current state of devel:**  barely forked, no additional features achieved.
 
 MIT License
 
